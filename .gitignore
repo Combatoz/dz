@@ -3,5 +3,5 @@ Syntax: glob
 *.pyc
 *.pyo
 *.db
-#.idea
+.idea
 
