@@ -38,9 +38,7 @@ class Archive:
         self.string = string
         Archive._instance = self
 
-
 a = Archive(5, 'gfh')
-
 b = Archive(2, 'od')
 c = Archive(8, 'ghjhk')
 d = Archive(4, 'tytui')
